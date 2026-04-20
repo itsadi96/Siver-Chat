@@ -1,0 +1,13 @@
+PyQt6
+requests
+openai
+google-generativeai
+pypdf
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+markdown
+python-dotenv
+psutil
